@@ -1,0 +1,1 @@
+This is a series of learning codes. A lot of projects wil be broken or incomplete user discretion required.
